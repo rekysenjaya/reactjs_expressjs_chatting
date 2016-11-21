@@ -1,0 +1,28 @@
+.rcorners2-profile {
+  border-radius: 25px;
+  border: 2px solid #73AD21;
+  padding: 15px;
+  margin: 15px;
+  min-height: 200px;
+}
+.rcorners2 {
+  border-radius: 25px;
+  border: 2px solid #73AD21;
+  padding: 15px;
+  margin: 15px;
+  min-height: 150px;
+}
+.rcorners2-form {
+  border-radius: 25px;
+  border: 2px solid #73AD21;
+  padding: 15px;
+  margin: 15px;
+}
+.rcorners2-in {
+  border: 2px solid grey;
+  border-radius: 12px;
+  margin-top: 20px;
+  margin-bottom: 5px;
+  min-height: 150px;
+  padding: 15px;
+}
